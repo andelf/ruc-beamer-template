@@ -1,5 +1,5 @@
 # ruc-beamer-template
-Latex beamer template for RUC
+Latex beamer template for RUC.
 
 
 ## How to Use
@@ -14,7 +14,11 @@ or,
 
 ![](./screenshots/ruc-beamer.png)
 
-## Dependencies:g
+## Dependencies
 
 * XeTex
 * YaHei Font
+
+## About Author
+
+[微博](http://weibo.com/234632333)
